@@ -2,13 +2,13 @@
 
 This project uses the Coronavirus (COVID-19) Tweets dataset from Kaggle, which includes all Tweets globally using hashtags associated with Coronavirus in March and April 2020. The goal of this project is to gain a better understanding of the characteristics and patterns of these Tweets as well as to build and optimize a machine learning model that predicts the influence, i.e. the number of retweets, of Tweets.
 
-There are three main parts for this project. First, Part 1 - exploratory analysis will study the distributions and patterns of Tweets, including time analysis, textual analysis, and popularity analysis. Second, Part 2 - time series & country analysis will study the relationship between Tweets, number of confirmed Coronavirus cases, as well as its trend across time series and differences among countries. Third, Part 3 - Modeling will build and optimize linear regression model as well as random forest regression model in spark to predict the number of retweets of Tweets. Finally, this project will discuss the main challenges encountered during the analysis and what are the potential next steps.
-
-This project is meaningful because, at the macro level, the monitor and understanding of public sentiment is important for crisis management. To prevent massive panicking and public opinion crisis, governments need to observe public reaction, find out the trends of heated discussions, and address the most pressing concerns. A model that successfully predicts the influential tweets will enable governments to react quickly to the ferment of public sentiment and evolving concerns, which also helps prevent public relations crisis.
-
 **Dataset Preparation.ipynb cleans and prepares the three datasets for analysis**
 
 **Project Notebook.ipynb covers exploratory analysis and machine learning model**
+
+There are three main parts for this project. First, Part 1 - exploratory analysis will study the distributions and patterns of Tweets, including time analysis, textual analysis, and popularity analysis. Second, Part 2 - time series & country analysis will study the relationship between Tweets, number of confirmed Coronavirus cases, as well as its trend across time series and differences among countries. Third, Part 3 - Modeling will build and optimize linear regression model as well as random forest regression model in spark to predict the number of retweets of Tweets. Finally, this project will discuss the main challenges encountered during the analysis and what are the potential next steps.
+  
+This project is meaningful because the monitor and understanding of public sentiment is important for crisis management. To prevent massive panicking and public opinion crisis, governments need to observe public reaction, find out the trends of heated discussions, and address the most pressing concerns. A model that successfully predicts the influential tweets will enable governments to react quickly to the ferment of public sentiment and evolving concerns, which also helps prevent public relations crisis.
 
 There were mainly three challenges in this project.
 
