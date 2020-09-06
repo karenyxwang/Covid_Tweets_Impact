@@ -6,8 +6,9 @@ There are three main parts for this project. First, Part 1 - exploratory analysi
 
 This project is meaningful because, at the macro level, the monitor and understanding of public sentiment is important for crisis management. To prevent massive panicking and public opinion crisis, governments need to observe public reaction, find out the trends of heated discussions, and address the most pressing concerns. A model that successfully predicts the influential tweets will enable governments to react quickly to the ferment of public sentiment and evolving concerns, which also helps prevent public relations crisis.
 
-## Dataset Preparation.ipynb cleans and prepares the three datasets for analysis
-## Project Notebook.ipynb covers exploratory analysis and machine learning model
+**Dataset Preparation.ipynb cleans and prepares the three datasets for analysis**
+
+**Project Notebook.ipynb covers exploratory analysis and machine learning model**
 
 There were mainly three challenges in this project.
 
