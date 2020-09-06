@@ -1,6 +1,6 @@
 # Covid_Tweets_Impact
 
-This project uses the Coronavirus (COVID-19) Tweets dataset from [Kaggle] (https://www.kaggle.com/smid80/coronavirus-covid19-tweets#2020-03-12%20Coronavirus%20Tweets.CSV), which includes all Tweets globally using hashtags associated with Coronavirus in March and April 2020. The goal of this project is to gain a better understanding of the characteristics and patterns of these Tweets as well as to build and optimize a machine learning model that predicts the influence, i.e. the number of retweets, of Tweets.
+This project uses the Coronavirus (COVID-19) Tweets dataset from [Kaggle](https://www.kaggle.com/smid80/coronavirus-covid19-tweets), which includes all Tweets globally using hashtags associated with Coronavirus in March and April 2020. The goal of this project is to gain a better understanding of the characteristics and patterns of these Tweets as well as to build and optimize a machine learning model that predicts the influence, i.e. the number of retweets, of Tweets.
 
 **Dataset Preparation.ipynb cleans and prepares the three datasets for analysis and modeling.**
 
