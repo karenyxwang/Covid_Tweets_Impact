@@ -2,9 +2,9 @@
 
 This project uses the Coronavirus (COVID-19) Tweets dataset from Kaggle, which includes all Tweets globally using hashtags associated with Coronavirus in March and April 2020. The goal of this project is to gain a better understanding of the characteristics and patterns of these Tweets as well as to build and optimize a machine learning model that predicts the influence, i.e. the number of retweets, of Tweets.
 
-**Dataset Preparation.ipynb cleans and prepares the three datasets for analysis**
+**Dataset Preparation.ipynb cleans and prepares the three datasets for analysis and modeling.**
 
-**Project Notebook.ipynb covers exploratory analysis and machine learning model**
+**Project Notebook.ipynb conducts exploratory analysis and trains the machine learning model.**
 
 There are three main parts for this project. First, Part 1 - exploratory analysis will study the distributions and patterns of Tweets, including time analysis, textual analysis, and popularity analysis. Second, Part 2 - time series & country analysis will study the relationship between Tweets, number of confirmed Coronavirus cases, as well as its trend across time series and differences among countries. Third, Part 3 - Modeling will build and optimize linear regression model as well as random forest regression model in spark to predict the number of retweets of Tweets. Finally, this project will discuss the main challenges encountered during the analysis and the next steps.
   
